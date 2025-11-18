@@ -1,16 +1,80 @@
-## Hi there 👋
+<img align=”right” alt=”Coding” width=”400” src="https://i.ibb.co.com/d42kW87w/a-sleek-modern-github-profile-banner-wit-sri-X6-QZDSxuq-Meimo-Fm0-Zw-1-RETy-K81-Qr6-Cho-Bb7j-Ez7-A.jpg"/>
 
-<!--
-**fardinislamselim/fardinislamselim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&width=430&lines=Hello%2C+Ther!+%F0%9F%91%8B;I+am+Fardin+Isla+Selim." alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Full-Stack Web Developer | MERN Stack Enthusiast</h2>
+
+
+<h2 align="center">💫 About Me:</h2>
+<div align="center">I'm a passionate and dedicated full-stack web developer who loves turning ideas into real, meaningful digital experiences. 💻✨ I enjoy crafting clean interfaces, writing elegant code, and building applications that solve real problems. 🚀 Every day, I push myself to learn something new, improve my work, and grow as a developer. 🌱 My goal is simple — to create projects that are fast, functional, and enjoyable to use, while continuously becoming the best version of myself in the world of technology. 🌍💡</div>
+
+
+<br/>
+
+---
+
+- 🔭 I’m currently working on a <strong>Zap Shift</strong> Project  
+- 🌱 Exploring REST API Development
+- ⚡ Improving my Backend & API skills  
+
+
+
+
+<h2 align="center"> 💻 Frontend Development </h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</div>
+
+
+<h2 align="center"> ⚙️ Backend Development </h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+
+<h2 align="center"> 🗄️ Databases <h2/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</div>
+
+<h2 align="center"> 🧰 Tools & Technologies </h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</div>
+
+
+
+<h2 align="center">🌐 Socials:</h2>
+<div align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=facebook"
+    />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=instagram"
+    />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
+    />
+  </a>
+<div/>
+<br/>
+
+
+
+### 💬 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinislamselim&layout=compact)
+
+
+### 📊 GitHub Stats
+![Fardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fardinislamselim&show_icons=true)
