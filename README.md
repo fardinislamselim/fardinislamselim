@@ -52,17 +52,17 @@
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://www.facebook.com/mdfardinislamselim/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=facebook"
     />
   </a>
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://www.instagram.com/mdfardinislamselim/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=instagram"
     />
   </a>
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://www.linkedin.com/in/fardinislamselim/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
     />
@@ -81,6 +81,4 @@
 
 <br/>
 
-<img
-      src="[https://go-skill-icons.vercel.app/api/icons?i=linkedin](https://gh-readme-profile.vercel.app/api?username=fardinislamselim&theme=dark&hide_border=true)"
-    />
+<a href="https://github.com/fardinislamselim"><img src="https://gh-readme-profile.vercel.app/api?username=fardinislamselim&theme=catppuccin-macchiato" alt="Profile Card" width="100%"></a>
