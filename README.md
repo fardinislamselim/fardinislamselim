@@ -77,4 +77,10 @@
 
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=fardinislamselim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=fardinislamselim)](https://git.io/streak-stats)
+
+<br/>
+
+<img
+      src="[https://go-skill-icons.vercel.app/api/icons?i=linkedin](https://gh-readme-profile.vercel.app/api?username=fardinislamselim&theme=dark&hide_border=true)"
+    />
