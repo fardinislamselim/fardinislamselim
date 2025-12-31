@@ -17,7 +17,7 @@
 
 ---
 
-- 🔭 I’m currently working on a <strong>Zap Shift</strong> Project  
+- 🔭 I’m currently working on a <strong>Assets Vers</strong> Project  
 - 🌱 Exploring REST API Development
 - ⚡ Improving my Backend & API skills  
 
