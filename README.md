@@ -73,8 +73,8 @@
 
 
 ### 💬 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinislamselim&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=fardinislamselim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 
 ### 📊 GitHub Stats
-![Fardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fardinislamselim&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=fardinislamselim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
