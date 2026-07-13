@@ -100,6 +100,7 @@
 ## 🏆 GitHub Achievements
 
 <br/>
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=fardinislamselim&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fardinislamselim&layout=compact&theme=radical)
